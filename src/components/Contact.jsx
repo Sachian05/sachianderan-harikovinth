@@ -90,7 +90,7 @@ const Contact = () => {
                 id="name"
                 autoComplete="name"
                 required
-                placeholder="Sachianderan Harikovinth"
+                placeholder="Sachian"
                 className="text-field reveal-up"
               />
             </div>
@@ -126,7 +126,7 @@ const Contact = () => {
             <textarea
               name="message"
               id="message"
-              placeholder="Hi!"
+              placeholder="Message"
               required
               className="text-field resize-y min-h-32 max-h-80 reveal-up"
             ></textarea>
