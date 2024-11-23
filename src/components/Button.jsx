@@ -21,9 +21,12 @@ const ButtonPrimary = ({
   icon,
   classes
 }) => {
-  const downloadFile = () => { const link = document.createElement('a'); link.href = `https://sachian05.github.io/sachianderan-harikovinth/sachianderan-harikovinth-resume.pdf`; // Update with your PDF file path 
+  const downloadFile = () => { const link = document.createElement('a'); 
+  link.href = `https://sachian05.github.io/sachianderan-harikovinth/public/sachianderan-harikovinth-resume.pdf`; // Update with your PDF file path 
   link.setAttribute('download', 'sachianderan-harikovinth-resume.pdf'); // Specify the file name for download 
-  document.body.appendChild(link); link.click(); document.body.removeChild(link); };
+  document.body.appendChild(link); 
+  link.click(); 
+  document.body.removeChild(link); };
   if (href) {
     return (
       <a
