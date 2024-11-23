@@ -1,5 +1,6 @@
-# Sachianderan-harikovinth
+# Website - Portfolio
 
+to run/host locally on your device:
 1. Unzip Folder
 2. Paste into Terminal <git install>
 3. Paste into Terminal <git run dev>
