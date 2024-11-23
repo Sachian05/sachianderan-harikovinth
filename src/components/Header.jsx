@@ -14,6 +14,9 @@ import { useState } from "react";
  * Components
  */
 import Navbar from "./Navbar";
+import Image from '/images/logo.svg';
+
+
 
 
 const Header = () => {
@@ -29,7 +32,7 @@ const Header = () => {
             className="logo"
           >
             <img
-              src="/images/logo.svg"
+              src={Image}
               width={40}
               height={40}
               alt="Sachianderan Harikovinth"

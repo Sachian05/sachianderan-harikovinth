@@ -3,6 +3,7 @@
  * @license Apache-2.0
  */
 
+import img from '/images/logo.svg';
 
 const aboutItems = [
   {
@@ -44,7 +45,7 @@ const About = () => {
             }
 
             <img
-              src="/images/logo.svg"
+              src={img}
               alt="Logo"
               width={30}
               height={30}

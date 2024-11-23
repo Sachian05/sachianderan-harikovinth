@@ -2,6 +2,8 @@
  * @copyright 2024 Sachianderan Hari Kovinth
  * @license Apache-2.0
  */
+import Image from '/images/avatar-1.jpg';
+import img from '/images/hero-banner.png';
 
 
 /**
@@ -22,7 +24,7 @@ const Hero = () => {
           <div className="flex items-center gap-3">
             <figure className="img-box w-9 h-9 rounded-lg">
               <img
-                src="/images/avatar-1.jpg"
+                src={Image}
                 width={40}
                 height={40}
                 alt="Sachianderans portrait"
@@ -60,7 +62,7 @@ const Hero = () => {
         <div className="hidden lg:block">
           <figure className="w-full max-w-[480px] ml-auto bg-gradient-to-t from-sky-400 via-25% via-sky-400/40 to-65% rounded-[60px] overflow-hidden">
             <img
-              src="/images/hero-banner.png"
+              src={img}
               width={656}
               height={800}
               alt="Sachianderan Harikovinth"
