@@ -46,7 +46,7 @@ const ButtonPrimary = ({
     )
   } else {
     return (
-      <button className={`btn btn-primary ${classes}`} onClick={downloadFile}> // Call the download function on click
+      <button className={`btn btn-primary ${classes}`} onClick={downloadFile}>
         {label}
 
         {icon ?
