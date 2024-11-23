@@ -99,9 +99,10 @@ const ButtonOutline = ({
     )
   } else {
     return (
-      <button className={"btn btn-outline " + classes}>
+      <button className={`btn btn-primary ${classes}`} 
+      onClick={downloadFile}
+      >
         {label}
-
         {icon ?
           <span className="material-symbols-rounded" aria-hidden="true">
             {icon}
