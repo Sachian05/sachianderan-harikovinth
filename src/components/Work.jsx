@@ -19,39 +19,39 @@ import img6 from '/images/project-6.jpg';
 const works = [
   {
     imgSrc: img1,
-    title: 'Full stack music app',
-    tags: ['API', 'MVC', 'Development'],
-    projectLink: 'https://musify-5al0.onrender.com/'
+    title: 'Calculator App',
+    tags: ['JAVA', 'JS', 'CSS3', 'HTML5'],
+    projectLink: 'https://github.com/Sachian05/sachianderan-harikovinth.git'
   },
   {
     imgSrc: img2,
-    title: 'Free stock photo app',
-    tags: ['API', 'SPA'],
-    projectLink: 'https://pixstock-official.vercel.app/'
+    title: 'Placeholders',
+    tags: ['N/A'],
+    projectLink: 'https://github.com/Sachian05/sachianderan-harikovinth.git'
   },
   {
     imgSrc: img3,
-    title: 'Recipe app',
-    tags: ['Development', 'API'],
-    projectLink: ''
+    title: 'Placeholders',
+    tags: ['N/A'],
+    projectLink: 'https://github.com/Sachian05/sachianderan-harikovinth.git'
   },
   {
     imgSrc: img4,
-    title: 'Real state website',
-    tags: ['Web-design', 'Development'],
-    projectLink: 'https://github.com/codewithsadee-org/wealthome'
+    title: 'Placeholders',
+    tags: ['N/A'],
+    projectLink: 'https://github.com/Sachian05/sachianderan-harikovinth.git'
   },
   {
     imgSrc: img5,
-    title: 'eCommerce website',
-    tags: ['eCommerce', 'Development'],
-    projectLink: 'https://github.com/codewithsadee/anon-ecommerce-website'
+    title: 'Placeholders',
+    tags: ['N/A'],
+    projectLink: 'https://github.com/Sachian05/sachianderan-harikovinth.git'
   },
   {
     imgSrc: img6,
-    title: 'vCard Personal portfolio',
-    tags: ['Web-design', 'Development'],
-    projectLink: 'https://github.com/codewithsadee/vcard-personal-portfolio'
+    title: 'Placeholders',
+    tags: ['N/A'],
+    projectLink: 'https://github.com/Sachian05/sachianderan-harikovinth.git'
   },
 ];
 
