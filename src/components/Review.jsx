@@ -97,7 +97,7 @@ const Review = () => {
       <div className="container">
 
         <h2 className="headline-2 mb-8 reveal-up">
-          What my past clients say
+          What my clients say
         </h2>
 
         <div className="scrub-slide flex items-stretch gap-3 w-fit">
