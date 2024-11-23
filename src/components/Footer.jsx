@@ -37,24 +37,20 @@ const sitemap = [
 const socials = [
   {
     label: 'GitHub',
-    href: 'https://www.github.com/codewithsadee-org'
+    href: 'https://www.github.com/Sachian05'
   },
   {
     label: 'LinkedIn',
-    href: 'https://www.linkedin.com/in/codewithsadee'
+    href: 'https://www.linkedin.com/in/shk2005/'
   },
   {
     label: 'Twitter X',
-    href: 'https://x.com/codewithsadee_'
+    href: 'https://x.com/Sachian_hk'
   },
   {
     label: 'Instagram',
-    href: 'https://www.instagram.com/codewithsadee'
+    href: 'https://www.instagram.com/sachian05.hk/'
   },
-  {
-    label: 'CodePen',
-    href: 'https://codepen.io/codewithsadee'
-  }
 ];
 
 
