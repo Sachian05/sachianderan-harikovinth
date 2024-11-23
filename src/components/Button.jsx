@@ -21,6 +21,9 @@ const ButtonPrimary = ({
   icon,
   classes
 }) => {
+  const downloadFile = () => { const link = document.createElement('a'); link.href = `/sachianderan-harikovinth-resume.pdf`; // Update with your PDF file path 
+  link.setAttribute('download', 'sachianderan-harikovinth-resume.pdf'); // Specify the file name for download 
+  document.body.appendChild(link); link.click(); document.body.removeChild(link); };
   if (href) {
     return (
       <a
