@@ -41,7 +41,7 @@ const socials = [
   },
   {
     label: 'LinkedIn',
-    href: 'https://www.linkedin.com/in/shk2005/'
+    href: 'https://www.linkedin.com/in/sachianderan/'
   },
   {
     label: 'Twitter X',
